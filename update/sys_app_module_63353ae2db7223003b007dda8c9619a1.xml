@@ -2,7 +2,7 @@
 <record_update sys_domain="global" table="sys_app_module">
     <sys_app_module action="INSERT_OR_UPDATE">
         <active>true</active>
-        <application/>
+        <application display_value="Need it two">0f443ae2db7223003b007dda8c9619e2</application>
         <assessment/>
         <content_page/>
         <device_type/>
@@ -12,9 +12,9 @@
         <image/>
         <link_type>NEW</link_type>
         <map_page/>
-        <mobile_title>Create new</mobile_title>
+        <mobile_title>create new two</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
-        <name>x_58872_needit_needit</name>
+        <name>x_58872_needit_need_it_two</name>
         <order>100</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
@@ -22,21 +22,21 @@
         <roles/>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-01-04 21:01:13</sys_created_on>
+        <sys_created_on>2019-01-07 19:07:52</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>39f1776ddbf623003b007dda8c961978</sys_id>
+        <sys_id>63353ae2db7223003b007dda8c9619a1</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Create new</sys_name>
+        <sys_name>create new two</sys_name>
         <sys_overrides/>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
-        <sys_update_name>sys_app_module_39f1776ddbf623003b007dda8c961978</sys_update_name>
+        <sys_update_name>sys_app_module_63353ae2db7223003b007dda8c9619a1</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-01-04 21:01:13</sys_updated_on>
+        <sys_updated_on>2019-01-07 19:07:52</sys_updated_on>
         <timeline_page/>
-        <title>Create new</title>
+        <title>create new two</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>
